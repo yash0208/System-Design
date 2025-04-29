@@ -4,175 +4,200 @@
     "type": "split",
     "children": [
       {
-        "id": "f67ce6b4b26768c4",
-        "type": "tabs",
+        "id": "50db7c19f1619fd1",
+        "type": "split",
         "children": [
           {
-            "id": "de4f50bc9ab05614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "API.md",
-                "mode": "source",
-                "source": false
+            "id": "f67ce6b4b26768c4",
+            "type": "tabs",
+            "dimension": 19.774011299435028,
+            "children": [
+              {
+                "id": "de4f50bc9ab05614",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "API.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "API"
+                }
               },
-              "icon": "lucide-file",
-              "title": "API"
-            }
+              {
+                "id": "077a743e35fad1ca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Consistency.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Consistency"
+                }
+              },
+              {
+                "id": "55e0d85f438a6d0f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Non-Functional Requirements.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Non-Functional Requirements"
+                }
+              },
+              {
+                "id": "59fc5b30f0b87140",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "2924053ea709edd3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Best Practices for Integrating ML Models into Large-Scale Systems.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Best Practices for Integrating ML Models into Large-Scale Systems"
+                }
+              },
+              {
+                "id": "76936dac55864acc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Batch Processing vs. Stream Processing.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Batch Processing vs. Stream Processing"
+                }
+              },
+              {
+                "id": "f7b1c8fa750db27c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "High-Level Design (HLD) of a Robust User Service.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "High-Level Design (HLD) of a Robust User Service"
+                }
+              },
+              {
+                "id": "90a137d2dddd9d19",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ensuring Database Health - Monitoring NoSQL Databases Behind Load Balancers.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ensuring Database Health - Monitoring NoSQL Databases Behind Load Balancers"
+                }
+              },
+              {
+                "id": "342d0055f02aa5fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "HLD/Delivery HLD/Delivery Application.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Delivery Application"
+                }
+              },
+              {
+                "id": "2ef8da0c51a7f29f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Best Design Practices for REST APIs.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Best Design Practices for REST APIs"
+                }
+              },
+              {
+                "id": "9afa7e5fd45067b0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Microservices Architecture.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Microservices Architecture"
+                }
+              },
+              {
+                "id": "0e7fd5bfeca150d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Best Design Practices for REST APIs.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Best Design Practices for REST APIs"
+                }
+              }
+            ],
+            "currentTab": 8
           },
           {
-            "id": "077a743e35fad1ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consistency.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Consistency"
-            }
-          },
-          {
-            "id": "55e0d85f438a6d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Non-Functional Requirements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Non-Functional Requirements"
-            }
-          },
-          {
-            "id": "59fc5b30f0b87140",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "2924053ea709edd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Best Practices for Integrating ML Models into Large-Scale Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Best Practices for Integrating ML Models into Large-Scale Systems"
-            }
-          },
-          {
-            "id": "76936dac55864acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Batch Processing vs. Stream Processing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Batch Processing vs. Stream Processing"
-            }
-          },
-          {
-            "id": "f7b1c8fa750db27c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "High-Level Design (HLD) of a Robust User Service.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "High-Level Design (HLD) of a Robust User Service"
-            }
-          },
-          {
-            "id": "90a137d2dddd9d19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ensuring Database Health - Monitoring NoSQL Databases Behind Load Balancers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ensuring Database Health - Monitoring NoSQL Databases Behind Load Balancers"
-            }
-          },
-          {
-            "id": "342d0055f02aa5fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analytica HLD/System Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "System Overview"
-            }
-          },
-          {
-            "id": "2ef8da0c51a7f29f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Best Design Practices for REST APIs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Best Design Practices for REST APIs"
-            }
-          },
-          {
-            "id": "9afa7e5fd45067b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microservices Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Microservices Architecture"
-            }
-          },
-          {
-            "id": "0e7fd5bfeca150d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Best Design Practices for REST APIs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Best Design Practices for REST APIs"
-            }
+            "id": "93402c48d6fb9ee5",
+            "type": "tabs",
+            "dimension": 80.22598870056498,
+            "children": [
+              {
+                "id": "f6142364b3253e01",
+                "type": "leaf",
+                "state": {
+                  "type": "diagrams-net",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Diagram"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 8
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -343,17 +368,22 @@
   },
   "active": "342d0055f02aa5fd",
   "lastOpenFiles": [
-    "Analytica.drawio.png",
-    "API.md",
-    "Analytica HLD/System Overview.md",
-    "Analytica HLD",
-    "Machine Learning Models Integration.md",
-    "Kubernetes.md",
-    "Best Practices for Integrating ML Models into Large-Scale Systems.md",
+    "HLD/Analytica HLD/System Overview.md",
+    "HLD/Delivery HLD/Delivery Application.md",
+    "HLD/Food Delivery HLD/Untitled 1.md",
+    "HLD/Delivery HLD",
+    "HLD",
+    "CAP Theorem.md",
     "Ensuring Database Health - Monitoring NoSQL Databases Behind Load Balancers.md",
     "High-Level Design (HLD) of a Robust User Service.md",
+    "Machine Learning Models Integration.md",
+    "Best Practices for Integrating ML Models into Large-Scale Systems.md",
     "Batch Processing vs. Stream Processing.md",
     "Best Design Practices for REST APIs.md",
+    "Analytica.drawio.png",
+    "API.md",
+    "HLD/Analytica HLD",
+    "Kubernetes.md",
     "README.md",
     "images/th 1.jpeg",
     "images/th.jpeg",
@@ -367,7 +397,6 @@
     "Availability.md",
     "Functional Requirements.md",
     "System Design Problem.md",
-    "CAP Theorem.md",
     "Partition Tolerance.md"
   ]
 }
